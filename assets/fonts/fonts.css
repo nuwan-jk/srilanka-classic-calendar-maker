@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'AppAnton';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('Anton-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'AppImpact';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('impact.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'AppNoto Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('NotoSerif-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'AppRoboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Roboto-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'AppRoboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Roboto-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'AppRoboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Roboto-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'AppRoboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('RobotoCondensed-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'AppRoboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('RobotoCondensed-Bold.ttf') format('truetype');
+}
